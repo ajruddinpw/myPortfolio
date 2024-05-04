@@ -60,13 +60,13 @@
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "name": "Job-App",
+    "desc": "Developed a job application platform with Spring Web, Lombok, and JSP, enabling recruiters to post jobs and applicants to search based on their fields.",
     "image": "resumegen",
-    "category": "mern",
+    "category": "Java",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "#",
+      "code": "#"
     }
   },
   {
