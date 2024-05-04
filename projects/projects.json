@@ -1,8 +1,8 @@
 [
-    {
-    "name": "Guessing Game ",
+  {
+    "name": "Guessing Game",
     "desc": "Developed a Java-based number guessing game application featuring user input, random number generation, and feedback on guesses.",
-    "image": "#",
+    "image": "notystackandroid",
     "category": "Java",
     "links": {
       "view": "#",
@@ -10,13 +10,33 @@
     }
   },
   {
-    "name": "Grade calculator",
+    "name": "Grade Calculator",
     "desc": "Developed a Java-based student grade calculator project utilizing user input for subject marks, computing average percentage, and determining grades.",
-    "image": "#",
+    "image": "sppuprepandroid",
     "category": "Java",
     "links": {
-      "view": "",
-      "code": "https://github.com/ajruddinpw/task2"
+      "view": "#",
+      "code": "https://github.com/ajruddinpw/task2/blob/main/task2.java"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
     }
   },
   {
