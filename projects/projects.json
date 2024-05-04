@@ -20,8 +20,8 @@
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Student Management System",
+    "desc": "Developed a Java-based student management system enabling interactive functionalities like adding, removing, searching, and displaying student records via a command-line interface.",
     "image": "newsboxandroid",
     "category": "android",
     "links": {
