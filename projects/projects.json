@@ -50,13 +50,13 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "Student Management System",
+    "desc": "Engineered a robust student management system utilizing Spring Boot,  Spring MVC, Spring Data JPA, and Thymeleaf, allowing seamless addition, update, and deletion of student records with attributes including first name, last name, and email.",
     "image": "flipkartmern",
-    "category": "mern",
+    "category": "Java",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "#",
+      "code": "#"
     }
   },
   {
