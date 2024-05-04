@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Book-Store",
+    "desc": " Designed and developed a book store application in Java, enabling user registration and CRUD operations for book management.",
     "image": "instagrammern",
-    "category": "mern",
+    "category": "Java",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "",
+      "code": "https://github.com/ajruddinpw/bookstore-project"
     }
   },
   {
