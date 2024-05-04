@@ -23,10 +23,10 @@
     "name": "Student Management System",
     "desc": "Developed a Java-based student management system enabling interactive functionalities like adding, removing, searching, and displaying student records via a command-line interface.",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "Java",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
+      "view": "#",
+      "code": "https://github.com/ajruddinpw/task3/blob/main/task3.java"
     }
   },
   {
