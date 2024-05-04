@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "name": "Watchlist-Application",
+    "desc": "Developed a Java watchlist app allowing users to add, prioritize, comment, and rate movies.Integrated IMDb ratings for informed movie selection and prioritization options for personalized lists.Implemented submission feature for efficient management and customization of movie collections.",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "Java",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "#",
+      "code": "https://github.com/ajruddinpw/WatchListApp-project"
     }
   },
   {
