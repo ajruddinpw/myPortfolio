@@ -31,7 +31,7 @@
   },
   {
     "name": "Watchlist-Application",
-    "desc": "Developed a Java watchlist app allowing users to add, prioritize, comment, and rate movies.Integrated IMDb ratings for informed movie selection and prioritization options for personalized lists.",
+    "desc": "Developed a Java watchlist app allowing users to add,prioritize,comment,and rate movies.Integrated IMDb ratings for informed movie selection and prioritization options for personalized lists.",
     "image": "weatherlyandroid",
     "category": "Java",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Student Management System",
-    "desc": "Engineered a robust student management system utilizing Spring Boot,  Spring MVC, Spring Data JPA, and Thymeleaf, allowing seamless addition, update, and deletion of student records with attributes including first name, last name, and email.",
+    "desc": "Engineered a robust student management system utilizing Spring Boot,Spring MVC,Spring Data JPA,and Thymeleaf,allowing seamless addition, update, and deletion of student records. ",
     "image": "flipkartmern",
     "category": "Java",
     "links": {
