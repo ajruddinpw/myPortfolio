@@ -38,9 +38,10 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
+    $(document).ready(function () {
     $("#contact-form").submit(function (event) {
         event.preventDefault();
-        emailjs.init("WCW-Da8c5GY7QDeg0");
+        emailjs.init("txe2w8BVEmgMoF1rL");
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
             .then(function (response) {
@@ -53,8 +54,9 @@ $(document).ready(function () {
             });
       //  event.preventDefault();
     });
+    });
     // <!-- emailjs to mail contact form data -->
-
+    
 });
 
 document.addEventListener('visibilitychange',
