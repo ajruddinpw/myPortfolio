@@ -39,6 +39,7 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
+        event.preventDefault();
         emailjs.init("WCW-Da8c5GY7QDeg0");
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
@@ -50,7 +51,7 @@ $(document).ready(function () {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again");
             });
-        event.preventDefault();
+      //  event.preventDefault();
     });
     // <!-- emailjs to mail contact form data -->
 
