@@ -38,23 +38,24 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $(document).ready(function () {
+    
     $("#contact-form").submit(function (event) {
-        event.preventDefault();
+    
         emailjs.init("txe2w8BVEmgMoF1rL");
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
             .then(function (response) {
                 console.log('SUCCESS!', response.status, response.text);
+                console.log("Form submitted");
                 document.getElementById("contact-form").reset();
                 alert("Form Submitted Successfully");
             }, function (error) {
                 console.log('FAILED...', error);
                 alert("Form Submission Failed! Try Again");
             });
-      //  event.preventDefault();
+       event.preventDefault();
     });
-    });
+
     // <!-- emailjs to mail contact form data -->
     
 });
