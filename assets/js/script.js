@@ -41,7 +41,7 @@ $(document).ready(function () {
     
     $("#contact-form").submit(function (event) {
     
-        emailjs.init("txe2w8BVEmgMoF1rL");
+        emailjs.init('gKB5ugc_7qg8chTNI');
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
             .then(function (response) {
