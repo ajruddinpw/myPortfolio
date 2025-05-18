@@ -39,22 +39,31 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     
-    $("#contact-form").submit(function (event) {
-    
-        emailjs.init('gKB5ugc_7qg8chTNI');
+   emailjs.init('gKB5ugc_7qg8chTNI'); // Replace with your EmailJS public key
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                console.log("Form submitted");
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-       event.preventDefault();
-    });
+const btn = document.getElementById("button");
+
+document.getElementById("form").addEventListener("submit", function (event) {
+  event.preventDefault();
+
+  btn.value = "Sending...";
+
+  const serviceID = "default_service";
+  const templateID = "template_t8immvu"; // Replace with your actual template ID
+
+  emailjs.sendForm(serviceID, templateID, this).then(
+    () => {
+      btn.value = "Send Email";
+      alert("Sent!");
+      this.reset();
+    },
+    (err) => {
+      btn.value = "Send Email";
+      alert("Failed to send! " + JSON.stringify(err));
+    }
+  );
+});
+
 
     // <!-- emailjs to mail contact form data -->
     
