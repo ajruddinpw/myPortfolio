@@ -39,7 +39,7 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     
-   emailjs.init('gKB5ugc_7qg8chTNI'); // Replace with your EmailJS public key
+   emailjs.init('xzh20UiqtL5k9j75A'); // Replace with your EmailJS public key
 
 const btn = document.getElementById("button");
 
