@@ -20,13 +20,13 @@
     }
   },
   {
-    "name": "Student Management System",
-    "desc": "Developed a Java-based student management system enabling interactive functionalities like adding, removing, searching, and displaying student records via a command-line interface.",
-    "image": "newsboxandroid",
-    "category": "Java",
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/ajruddinpw/task3/blob/main/task3.java"
+      "view": "ajruddin.vercel.app",
+      "code": "https://github.com/ajruddinpw/myPortfolio"
     }
   },
   {
@@ -68,18 +68,9 @@
       "view": "#",
       "code": "#"
     }
-  },
-      
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "ajruddin.vercel.app",
-      "code": "https://github.com/ajruddinpw/myPortfolio"
-    }
   }
+      
+  
        
     
 ]
