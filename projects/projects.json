@@ -1,22 +1,22 @@
 [
   {
-    "name": "Guessing Game",
-    "desc": "Developed a Java-based number guessing game application featuring user input, random number generation, and feedback on guesses.",
-    "image": "notystackandroid",
-    "category": "Java",
+    "name": "Diti Digital Dove Website",
+    "desc": " Diti Digital Dove is a dynamic business consulting and digital solutions company, offering services in web & app development, digital marketing, PR management, software testing, UI/UX, corporate events, and branding. We help businesses grow through innovative strategies, technology, and creative execution. ",
+    "image": " DITI DIGITAL DOVE",
+    "category": "MERN",
     "links": {
       "view": "#",
-      "code": "https://github.com/ajruddinpw/task1"
+      "code": " "
     }
   },
   {
-    "name": "Grade Calculator",
-    "desc": "Developed a Java-based student grade calculator project utilizing user input for subject marks, computing average percentage, and determining grades.",
-    "image": "sppuprepandroid",
-    "category": "Java",
+    "name": "SetLup Website",
+    "desc": "SetLup is building India's fastest distribution network for New and Emerging Consumer Brands!",
+    "image": "SETLUP",
+    "category": "MERN",
     "links": {
       "view": "#",
-      "code": "https://github.com/ajruddinpw/task2/blob/main/task2.java"
+      "code": " "
     }
   },
   {
@@ -79,16 +79,7 @@
       "view": "ajruddin.vercel.app",
       "code": "https://github.com/ajruddinpw/myPortfolio"
     }
-  },
+  }
        
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  }        
+    
 ]
