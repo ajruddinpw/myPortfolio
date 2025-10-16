@@ -5,7 +5,7 @@
     "image": "DITI",
     "category": "MERN",
     "links": {
-      "view": "#",
+      "view": "https://cerulean-unicorn-be1f16.netlify.app/",
       "code": "https://cerulean-unicorn-be1f16.netlify.app/"
     }
   },
@@ -15,7 +15,7 @@
     "image": "SETLUP",
     "category": "MERN",
     "links": {
-      "view": "#",
+      "view": "https://setlup.in/",
       "code": "https://setlup.in/"
     }
   },
