@@ -31,6 +31,17 @@
   },
 
   {
+    "name": "NRV DESIGN X",
+    "desc": "DesignX built the world's first ever platform, Df-OS, which assists to automate the entire shop floor with a powerful combination of BPM, RPA, IIOT, and Al. Furthermore, we have digitalized 1500+ manufacturing processes for various industry verticals such as Automotive, FMCG, Food, Pharmaceuticals, Oil & Gas, Distilleries and so forth",
+    "image": "stage-6",
+    "category": "MERN",
+    "links": {
+      "view": "https://dfos.ai/",
+      "code": "https://dfos.ai/"
+    }
+  },
+
+  {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
