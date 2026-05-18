@@ -22,7 +22,7 @@
 {
     "name": "Azyron Tech",
     "desc": "Azyron Tech is a innovative tech company focused on delivering cutting-edge digital solutions.",
-    "image": "AZYRON",
+    "image": "../assets/images/projects/AZYRON.PNG",
     "category": "MERN",
     "links": {
       "view": "https://azyrontech.in/",
