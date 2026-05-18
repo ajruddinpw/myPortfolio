@@ -19,6 +19,17 @@
       "code": "https://setlup.in/"
     }
   },
+{
+    "name": "Azyron Tech",
+    "desc": "Azyron Tech is a innovative tech company focused on delivering cutting-edge digital solutions.",
+    "image": "AZYRON",
+    "category": "MERN",
+    "links": {
+      "view": "https://azyron.com/",
+      "code": "https://azyron.com/"
+    }
+  },
+
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
